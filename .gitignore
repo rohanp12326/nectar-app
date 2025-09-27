@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+lib.7z
+lib2.7z
+lib3 with api.7z
+postman_collection.json
+project_context.json
+project_tree.txt
